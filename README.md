@@ -4,6 +4,9 @@ A **FinTech-inspired app** to track personal expenses.
 Built with **Flask**, **SQLite**, **Bootstrap**, and **Chart.js**.
 
 ---
+> 📝 Note: Originally built and tested locally in **March 2024**.  
+> Finalized by **May 2024** and uploaded to GitHub afterwards.
+---
 
 ## 🚀 Features
 - Add expenses (description, amount, category)
